@@ -1,2 +1,2 @@
 # soren-website
-This is the website for my personal portfolio.
+This is the source code for https://sorenrood.com
