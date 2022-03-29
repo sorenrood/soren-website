@@ -1,2 +1,2 @@
 # soren-website
-This is the source code for https://sorenrood.com.
+I no longer use this source code. 
